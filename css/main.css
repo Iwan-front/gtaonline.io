@@ -1,0 +1,70 @@
+body{
+margin: 0;
+padding: 0;
+font-family:Pricedown; 
+}
+
+nav{
+display: flex;
+justify-content: space-between;
+background-color: #689CD2;
+padding: 10px 0px 10px 0px;
+width: 100%;
+}
+
+a{
+color: white;
+text-decoration: none;
+}
+
+.container_flex{
+display: flex;
+justify-content: space-between;
+}
+
+.item{
+padding: 10px 35px;
+font-size: 27px;
+margin-left: 5px;
+}
+
+.item:hover{
+background-color: #FF9000;
+transition: 1s;
+}
+
+.osn{
+width: 100%;
+height: 1000px;
+background-image: url(../img/kal_of_dyuti_4_missiya_v_pripyati_45887_5.png) ;
+background-repeat: no-repeat;
+color: white;
+}
+
+.Welcome{
+font-size:35px;
+margin-top: -47px;
+}
+
+
+.gif{
+height: 250px;
+width: 300px;
+}
+
+.pack_1{
+margin-top: 160px;
+}
+
+.packs{
+margin: 10px;
+padding: 10px;
+background-color: #689CD2;
+border-radius: 5px;
+}
+
+.packs:hover{
+background-color: #FF9000;
+transition: 1s;
+}
+
